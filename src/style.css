@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: #0e7e12;
+}
+
+.textRed {
+  color: red;
+}
+
+.card-suit-down {
+  transform: rotate(180deg);
+}
